@@ -6,7 +6,7 @@
 2. 금요일: 실시간 QnA 세션 진행
 
 ## 시기
-7월 12일(월) ~ 7월 30일(금) 매주 월요일 영상 4개 + 과제 배포]
+7월 12일(월) ~ 7월 30일(금) 매주 월요일 영상 4개 + 과제 배포
 
 ## 코드 확인
 1. [변수와 자료형](2.variables+datatypes)
@@ -113,3 +113,6 @@ QnA 링크와 수료 여부 관련해 다시 공지드리겠습니다.
 1. [1주차 메일 QnA 정리](https://haedalpro.notion.site/1-QnA-486f21e3814348f5b80ace13687ebc80)
 2. [2주차 메일 QnA 정리](https://haedalpro.notion.site/2-QnA-d5f563ff36d8481f97ce8b844982220a)
 3. [3주차 메일 QnA 정리](https://haedalpro.notion.site/3-QnA-39de432e67ce45658ed06ac70d01deb7)
+
+## PPT
+별도 첨부
