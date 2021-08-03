@@ -22,11 +22,7 @@
 
 안녕하세요 이번 파이썬 교육을 진행하게된 (주)해달프로그래밍의 최강민입니다 :)
 
-파이썬을 왜 배워야하는지, 파이썬을 배워서 어떤걸 하는지 깨달으시는데 도움이 되실 강의라 생각됩니다.
-
-Step 1은 파이썬 기초과정으로 진행되고, 하위권이 중위권으로 점프할 수 있는 강의로 기획/설계되었습니다.
-
-3주간 녹화강의로 강의자료가 베포되고, 교육을 들으시고 과제를 제출해주시면 됩니다.
+파이썬을 왜 배워야하는지, 파이썬을 배워서 어떤걸 하는지 깨달으시는데 도움이 되실 강의라 생각됩니다. Step 1은 파이썬 기초과정으로 진행되고, 하위권이 중위권으로 점프할 수 있는 강의로 기획/설계되었습니다. 3주간 녹화강의로 강의자료가 베포되고, 교육을 들으시고 과제를 제출해주시면 됩니다.
 
 현재 진행되는 교육에 있어 변경사항이 생기면 메일을 통해 소통할 예정입니다.
 
@@ -35,10 +31,9 @@ Step 1은 파이썬 기초과정으로 진행되고, 하위권이 중위권으�
 참여 링크 관련해서 추후 링크 보내겠습니다 :)
 
 아래 **교육영상자료**, **과제안내자료** 참고부탁드리고,
-
 여러분들의 원하시는 목표를 달성하는 시간이 되면 좋겠습니다.
 
-**교육영상자료**
+### 교육영상자료
 
 1. 오픈소스 프로그래밍이란? : [https://youtu.be/nMGIWJRhOMQ](https://youtu.be/nMGIWJRhOMQ)
 2. 개발환경세팅(윈도우 10) : [https://youtu.be/2dCWSe_kksg](https://youtu.be/2dCWSe_kksg)
@@ -47,7 +42,7 @@ Step 1은 파이썬 기초과정으로 진행되고, 하위권이 중위권으�
 5. 리스트 실습 : [https://youtu.be/kiXyF_hdZEU](https://youtu.be/kiXyF_hdZEU)
 6. 문자열 실습 : [https://youtu.be/7PxTHEk2RDI](https://youtu.be/7PxTHEk2RDI)
 
-**과제안내자료**
+### 과제안내자료
 
 1주차 과제 문서 : [https://github.com/haedalprogramming/2021KNUPythonStep1/blob/master/assignment/week1_assignment.md](https://github.com/haedalprogramming/2021KNUPythonStep1/blob/master/assignment/week1_assignment.md)
 </div>
@@ -69,15 +64,15 @@ Step 1은 파이썬 기초과정으로 진행되고, 하위권이 중위권으�
 
 아래 QnA영상자료, 교육영상자료, 과제안내자료 참고부탁드립니다.
 
-1주차 QnA영상자료
+### 1주차 QnA영상자료
 1. Step1 1주차 QnA 영상본 : https://youtu.be/rlW9_kZDP8c
  
-2주차 교육영상자료
+### 2주차 교육영상자료
 1. Github으로 코드 관리하자 : https://youtu.be/KyUmi4tk9_g
 2. 프로그램의 흐름 개념 + 순차, for문 실습 : https://youtu.be/b43rtwxN4ug
 3. while문, 이중for문, if, if-elif-else문 실습 : https://youtu.be/fF3cXww4hHY
 
-과제안내자료
+### 과제안내자료
 1. 2주차 과제 문서 : https://github.com/haedalprogramming/2021KNUPythonStep1/blob/master/assignment/week2_assignment.md
 </div>
 </details>
@@ -99,17 +94,17 @@ QnA 링크와 수료 여부 관련해 다시 공지드리겠습니다.
 
 아래 QnA 영상자료, 교육 영상자료, 과제안내자료 참고 부탁드립니다.
 
-2주차 QnA영상자료
+### 2주차 QnA영상자료
 1. Step1 2주차 QnA 영상본 : https://youtu.be/Si-3QLICpg8
  
-3주차 교육영상자료
+### 3주차 교육영상자료
 1. Input+print+file 실습 : https://youtu.be/IjsCXtXacPs
 2. 함수, 클래스, 모듈 개념 : https://youtu.be/6yWh83jSY7E
 3. 함수 실습 : https://youtu.be/qJ0G0aUwFTc
 4. 클래스 실습 : https://youtu.be/cOMrZGYkerY
 5. 모듈, 패키지 실습 : https://youtu.be/0luKKly4WKc
 
-과제안내자료
+### 과제안내자료
 1. 3주차 과제 문서 : https://github.com/haedalprogramming/2021KNUPythonStep1/blob/master/assignment/week3_assignment.md
 </div>
 </details>
